@@ -1,0 +1,70 @@
+{
+	"$schema": "https://mintlify.com/schema.json",
+	"name": "Selene",
+	"logo": {
+		"dark": "/logo/Selene-dark.svg",
+		"light": "/logo/Selene-light.svg"
+	},
+	"favicon": "/favicon.svg",
+	"colors": {
+		"primary": "#000000",
+		"light": "#ffffff",
+		"dark": "#000000",
+		"anchors": {
+			"from": "#000000",
+			"to": "#000000"
+		}
+	},
+	"font": {
+		"headings": {
+			"family": "Lexend"
+		},
+		"body": {
+			"family": "Lexend"
+		}
+	},
+	"tabs": [
+		{
+			"name": "Changelog",
+			"url": "changelog"
+		}
+	],
+	"anchors": [
+		{
+			"name": "Github",
+			"icon": "github",
+			"url": "https://github.com/0xOyster/Selene"
+		},
+		{
+			"name": "Discord",
+			"icon": "discord",
+			"url": "https://discord.gg/Selene"
+		},
+        {
+			"name": "X",
+			"icon": "twitter",
+			"url": "https://x.com/Selene_sdk"
+		},
+		{
+			"name": "Selenes",
+			"icon": "youtube",
+			"url": "https://youtu.be/5IuRzJRrRpQ"
+		}
+	],
+	"navigation": [
+		{
+			"group": "Overview",
+			"pages": [
+				"introduction",
+				"chains-wallets-plugins",
+				"examples",
+				"plugins",
+				"wallets",
+				"chains"
+			]
+		}
+	],
+	"footerSocials": {
+		"github": "https://github.com/Selene"
+	}
+}
