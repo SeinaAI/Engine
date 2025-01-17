@@ -1,12 +1,12 @@
 <div align="left">
 
-## Selene 🌗
+## Seina 🌗
 
 <img src="https://cdn.discordapp.com/attachments/975464918939742268/1329922414108479498/360_F_640359075_73HXrNPNVxRjX6fFctQBbyeRGsIgEtXU.jpg?ex=678c1a44&is=678ac8c4&hm=6883f0c94cc0656fd28b0924bdc17d6c7c621451808a7d25144ff04f4c275418&" alt="gitBanner" />
 
 &nbsp;
 
-**Selene** is an open-source framework for adding blockchain tools such as wallets, being able to hold or trade tokens, or interacting with blockchain smart contracts, to your AI agent.
+**Seina** is an open-source framework for adding blockchain tools such as wallets, being able to hold or trade tokens, or interacting with blockchain smart contracts, to your AI agent.
 
 &nbsp;
 
@@ -19,11 +19,11 @@ For developers without blockchain expertise, finding clear instructions to perfo
 
 **Solution**: 
 
-**Selene** solves this by providing an open-source, provider-agnostic framework that abstracts away all these combinations.
+**Seina** solves this by providing an open-source, provider-agnostic framework that abstracts away all these combinations.
 
-- **For agent developers**: **Selene** offers an always-growing catalog of ready made blockchain actions (sending tokens, using a DeFi protocol, ...) that can be imported as tools into your existing agent. It works with the most popular agent frameworks (Langchain, Vercel's AI SDK, Eliza, etc), Typescript and Python, 30+ blockchains (Solana, Base, Polygon, Mode, ...), and many wallet providers.
+- **For agent developers**: **Seina** offers an always-growing catalog of ready made blockchain actions (sending tokens, using a DeFi protocol, ...) that can be imported as tools into your existing agent. It works with the most popular agent frameworks (Langchain, Vercel's AI SDK, Eliza, etc), Typescript and Python, 30+ blockchains (Solana, Base, Polygon, Mode, ...), and many wallet providers.
 
-- **For dApp / smart contract developers**: develop a plug-in in **Selene**, and allow agents built with any of the most popular agent development frameworks to access your service.
+- **For dApp / smart contract developers**: develop a plug-in in **Seina**, and allow agents built with any of the most popular agent development frameworks to access your service.
 
 &nbsp;
 
@@ -36,7 +36,7 @@ For developers without blockchain expertise, finding clear instructions to perfo
 &nbsp;
 
 ### How it works
-**Selene** plugs into your agents tool calling capabilities adding all the functions your agent needs to interact with the blockchain. 
+**Seina** plugs into your agents tool calling capabilities adding all the functions your agent needs to interact with the blockchain. 
 
 High-level, here's how it works:
 
